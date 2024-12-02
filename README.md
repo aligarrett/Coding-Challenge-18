@@ -1,1 +1,2 @@
-# Coding-Challenge-18
+# Coding-Challenge-18: Interactive Charts with React and Chart.js
+In this challenge, you will create a Dynamic Chart Dashboard using React, Vite, and Chart.js. This dashboard will display various interactive charts (Bar, Line, Scatter, Bubble) based on data fetched from an external file. You will implement reusable chart components, understand Chart.js configuration, and integrate multiple charts into a single application.

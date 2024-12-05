@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from "react";
-import Chart from "chart.js";
+import { Chart } from "chart.js";
 
 const ChartComponent = ({ type = "bar", data, options }) => {
   const chartRef = useRef(null);
